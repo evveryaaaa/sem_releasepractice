@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evveryaaaa/semantic_release.git"
+    "url": "git+https://github.com/evveryaaaa/sem_releasepractice.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/evveryaaaa/semantic_release/issues"
+    "url": "https://github.com/evveryaaaa/sem__releasepractice/issues"
   },
-  "homepage": "https://github.com/evveryaaaa/semantic_release#readme"
+  "homepage": "https://github.com/evveryaaaa/sem_releasepractice#readme"
 }
